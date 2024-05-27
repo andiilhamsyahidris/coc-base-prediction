@@ -1,0 +1,10 @@
+{
+    "editor.formatOnSave": true,
+    "[dart]": {
+        "editor.codeActionsOnSave": {
+            "source.organizeImports": "explicit",
+            "source.removeUnusedImports": "explicit"
+        }
+    },
+    "java.configuration.updateBuildConfiguration": "interactive"
+}
