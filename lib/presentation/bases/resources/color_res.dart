@@ -6,4 +6,5 @@ class CocColor {
   static const Color bgColor = Color(0xFFFFFFFF);
   static const Color textColorDark = Color(0xFF2D2724);
   static const Color textColor = Color(0xFFFFFFFF);
+  static const Color errorColor = Color(0xFFDC3545);
 }
